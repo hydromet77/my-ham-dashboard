@@ -29,7 +29,7 @@ var aURL = [
   ],
   ["2196F3", "WATCH/WARN", "https://www.weather.gov/", "1"],
 
-["2196F3", "HAMCLOCK", "https://71.232.208.223:8081/live.html", "1"],
+["2196F3", "HAMCLOCK", "https://71.232.208.223:8080/live.html", "1"],
 
 ["2196F3", "LIVE QUAKES", "https://stationview.raspberryshake.org/#/?net=AM&sta=R75B1&lat=41.99099&lon=288.83499&zoom=7.000", "1"],
 
@@ -104,7 +104,7 @@ var aIMG = [
   ],
   [
     "",
-    "http://192.168.1.57:8080/get_capture.bmp",
+    "http://71.232.208.223:8080/get_capture.bmp",
   ],
   [
     "SATELLITE CANADA",
