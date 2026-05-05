@@ -33,7 +33,7 @@ var aURL = [
 
 ["2196F3", "LIVE QUAKES", "https://stationview.raspberryshake.org/#/?net=AM&sta=R75B1&lat=41.99099&lon=288.83499&zoom=7.000", "1"],
 
-      ["2196F3", "LIVE CAM", "https://iptimelapse.com/webcams/norton/snowcam.jpg", "1"],
+      ["2196F3", "CRITTER CAM", "https://iptimelapse.com/webcams/norton/snowcam.jpg", "1"],
 
 ["2196F3", "SWL", "https://www.short-wave.info/index.php?language=english", "1"],
 
