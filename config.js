@@ -83,7 +83,13 @@ var aURL = [
     "1",
     "R",
   ],
-
+[
+        "2196F3",
+    "SPACE WX",
+    "https://www.swpc.noaa.gov/",
+    "1",
+    "R",
+  ],
 ];
 
 // Dashboard items
