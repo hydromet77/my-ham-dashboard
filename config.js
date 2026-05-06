@@ -100,17 +100,17 @@ var aURL = [
 // but you can replace the titles and the images with anything you want.
 var aIMG = [
   [["Radar CONUS", "Radar Small"], "https://radar.weather.gov/ridge/standard/CONUS-LARGE_loop.gif", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
+ [
+    "WEST SKY",
+    "https://iptimelapse.com/webcams/norton/westcam.jpg",
+  ],  
   [
     "LOCAL RADAR (inverted)",
     "invert|https://radar.weather.gov/ridge/standard/KBOX_loop.gif",
   ],
   [
-    "WEST SKY",
-    "https://iptimelapse.com/webcams/norton/westcam.jpg",
-  ],
-  [
-    "",
-    "http://71.232.208.223:8081/get_capture.bmp",
+    "EAST TIMELAPSE LAST 2-HR",
+    "HTTPS://IPTIMELAPSE.COM/WEBCAMS/NORTON/INTRADAY_NORTON.MP4",
   ],
   [
     "SATELLITE CANADA",
