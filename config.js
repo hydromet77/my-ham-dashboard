@@ -33,7 +33,7 @@ var aURL = [
 
 ["2196F3", "LIVE QUAKES", "https://stationview.raspberryshake.org/#/?net=AM&sta=R75B1&lat=41.99099&lon=288.83499&zoom=7.000", "1"],
 
-      ["2196F3", "EAST-TIMELAPSE", "HTTPS://IPTIMELAPSE.COM/WEBCAMS/NORTON/INTRADAY_NORTON.MP4", "1"],
+      ["2196F3", "TIMELAPSE", "HTTPS://IPTIMELAPSE.COM/WEBCAMS/NORTON/INTRADAY_NORTON.MP4", "1"],
 
 ["2196F3", "SWL", "https://www.short-wave.info/index.php?language=english", "1"],
 
@@ -86,7 +86,7 @@ var aURL = [
 [
         "2196F3",
     "SPACE WX",
-    "https://www.swpc.noaa.gov/",
+    "https://www.spaceweather.com/",
     "1",
     "R",
   ],
