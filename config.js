@@ -95,7 +95,9 @@ var aURL = [
     "HAMDASH",
     "https://hamdash.com/satellites",
     "1",
-    "R",  
+    "R",
+  ],
+  
 ];
 
 // Dashboard items
