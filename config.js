@@ -39,7 +39,7 @@ var aURL = [
 
 
 ["2196F3", "HYDROMET", "https://HYDROMET.WEEBLY.COM", "1"],
-
+["2196F3", LOCAL FCST", "https://forecast.weather.gov/MapClick.php?x=192&y=157&site=box&zmx=&zmy=&map_x=192&map_y=157", "1"],
   [
     "2196F3",
     "RADAR",
